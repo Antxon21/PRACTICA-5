@@ -13,3 +13,10 @@
 
 4. **Commit a GitHub:**
    - Realizamos un commit en github del proyecto.
+
+## Apartados realizados aparte de la práctica
+
+- Añadimos comentarios en JavaDoc
+- Realizamos un diagrama con las ramas y commits hechos
+- Hacemos versionado semántico
+- Utilizamos Markdown
